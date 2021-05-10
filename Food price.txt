@@ -1,0 +1,602 @@
+date	cmname	unit	category	price
+1/15/2013	Rice - Retail	KG	cereals and tubers	10821
+2/15/2013	Rice - Retail	KG	cereals and tubers	10819
+3/15/2013	Rice - Retail	KG	cereals and tubers	10748
+4/15/2013	Rice - Retail	KG	cereals and tubers	10646
+5/15/2013	Rice - Retail	KG	cereals and tubers	10646
+6/15/2013	Rice - Retail	KG	cereals and tubers	10718
+7/15/2013	Rice - Retail	KG	cereals and tubers	10874
+8/15/2013	Rice - Retail	KG	cereals and tubers	10938
+9/15/2013	Rice - Retail	KG	cereals and tubers	10969
+10/15/2013	Rice - Retail	KG	cereals and tubers	10987
+11/15/2013	Rice - Retail	KG	cereals and tubers	11011
+12/15/2013	Rice - Retail	KG	cereals and tubers	11073
+1/15/2014	Rice - Retail	KG	cereals and tubers	11224
+2/15/2014	Rice - Retail	KG	cereals and tubers	11389
+3/15/2014	Rice - Retail	KG	cereals and tubers	11564
+4/15/2014	Rice - Retail	KG	cereals and tubers	11313
+5/15/2014	Rice - Retail	KG	cereals and tubers	11219
+6/15/2014	Rice - Retail	KG	cereals and tubers	11259
+7/15/2014	Rice - Retail	KG	cereals and tubers	11321
+8/15/2014	Rice - Retail	KG	cereals and tubers	11390
+9/15/2014	Rice - Retail	KG	cereals and tubers	11433
+10/15/2014	Rice - Retail	KG	cereals and tubers	11522
+11/15/2014	Rice - Retail	KG	cereals and tubers	11691
+12/15/2014	Rice - Retail	KG	cereals and tubers	12210
+1/15/2015	Rice - Retail	KG	cereals and tubers	12444
+2/15/2015	Rice - Retail	KG	cereals and tubers	12802
+3/15/2015	Rice - Retail	KG	cereals and tubers	13089
+4/15/2015	Rice - Retail	KG	cereals and tubers	12458
+5/15/2015	Rice - Retail	KG	cereals and tubers	12348
+6/15/2015	Rice - Retail	KG	cereals and tubers	12425
+7/15/2015	Rice - Retail	KG	cereals and tubers	12509
+8/15/2015	Rice - Retail	KG	cereals and tubers	12709
+9/15/2015	Rice - Retail	KG	cereals and tubers	12968
+10/15/2015	Rice - Retail	KG	cereals and tubers	13067
+11/15/2015	Rice - Retail	KG	cereals and tubers	13139
+12/15/2015	Rice - Retail	KG	cereals and tubers	13217
+1/15/2016	Rice - Retail	KG	cereals and tubers	13319
+2/15/2016	Rice - Retail	KG	cereals and tubers	13376
+3/15/2016	Rice - Retail	KG	cereals and tubers	13301
+4/15/2016	Rice - Retail	KG	cereals and tubers	13105
+5/15/2016	Rice - Retail	KG	cereals and tubers	13039
+6/15/2016	Rice - Retail	KG	cereals and tubers	13115
+7/15/2016	Rice - Retail	KG	cereals and tubers	13181
+8/15/2016	Rice - Retail	KG	cereals and tubers	13157
+9/15/2016	Rice - Retail	KG	cereals and tubers	13140
+10/15/2016	Rice - Retail	KG	cereals and tubers	13153
+11/15/2016	Rice - Retail	KG	cereals and tubers	13185
+12/15/2016	Rice - Retail	KG	cereals and tubers	13201
+1/15/2017	Rice - Retail	KG	cereals and tubers	13222
+2/15/2017	Rice - Retail	KG	cereals and tubers	13202
+3/15/2017	Rice - Retail	KG	cereals and tubers	13125
+4/15/2017	Rice - Retail	KG	cereals and tubers	13074
+5/15/2017	Rice - Retail	KG	cereals and tubers	13096
+6/15/2017	Rice - Retail	KG	cereals and tubers	13125
+8/15/2017	Rice - Retail	KG	cereals and tubers	13095
+9/15/2017	Rice - Retail	KG	cereals and tubers	13215
+10/15/2017	Rice - Retail	KG	cereals and tubers	13346
+11/15/2017	Rice - Retail	KG	cereals and tubers	13429
+12/15/2017	Rice - Retail	KG	cereals and tubers	13676
+1/15/2013	Wheat - Retail	KG	cereals and tubers	7395
+2/15/2013	Wheat - Retail	KG	cereals and tubers	7390
+3/15/2013	Wheat - Retail	KG	cereals and tubers	7364
+4/15/2013	Wheat - Retail	KG	cereals and tubers	7361
+5/15/2013	Wheat - Retail	KG	cereals and tubers	7350
+6/15/2013	Wheat - Retail	KG	cereals and tubers	7356
+7/15/2013	Wheat - Retail	KG	cereals and tubers	7388
+8/15/2013	Wheat - Retail	KG	cereals and tubers	7438
+9/15/2013	Wheat - Retail	KG	cereals and tubers	7471
+10/15/2013	Wheat - Retail	KG	cereals and tubers	7511
+11/15/2013	Wheat - Retail	KG	cereals and tubers	7583
+12/15/2013	Wheat - Retail	KG	cereals and tubers	7694
+1/15/2014	Wheat - Retail	KG	cereals and tubers	7759
+2/15/2014	Wheat - Retail	KG	cereals and tubers	7754
+3/15/2014	Wheat - Retail	KG	cereals and tubers	7766
+4/15/2014	Wheat - Retail	KG	cereals and tubers	7758
+5/15/2014	Wheat - Retail	KG	cereals and tubers	7750
+6/15/2014	Wheat - Retail	KG	cereals and tubers	7773
+7/15/2014	Wheat - Retail	KG	cereals and tubers	7790
+8/15/2014	Wheat - Retail	KG	cereals and tubers	7792
+9/15/2014	Wheat - Retail	KG	cereals and tubers	7831
+10/15/2014	Wheat - Retail	KG	cereals and tubers	7803
+11/15/2014	Wheat - Retail	KG	cereals and tubers	7794
+12/15/2014	Wheat - Retail	KG	cereals and tubers	7800
+1/15/2015	Wheat - Retail	KG	cereals and tubers	7850
+2/15/2015	Wheat - Retail	KG	cereals and tubers	7850
+3/15/2015	Wheat - Retail	KG	cereals and tubers	7852
+4/15/2015	Wheat - Retail	KG	cereals and tubers	7854
+5/15/2015	Wheat - Retail	KG	cereals and tubers	7826
+6/15/2015	Wheat - Retail	KG	cereals and tubers	7834
+7/15/2015	Wheat - Retail	KG	cereals and tubers	7927
+8/15/2015	Wheat - Retail	KG	cereals and tubers	7953
+9/15/2015	Wheat - Retail	KG	cereals and tubers	7951
+10/15/2015	Wheat - Retail	KG	cereals and tubers	7955
+11/15/2015	Wheat - Retail	KG	cereals and tubers	7938
+12/15/2015	Wheat - Retail	KG	cereals and tubers	7961
+1/15/2016	Wheat - Retail	KG	cereals and tubers	7986
+2/15/2016	Wheat - Retail	KG	cereals and tubers	7980
+3/15/2016	Wheat - Retail	KG	cereals and tubers	7985
+4/15/2016	Wheat - Retail	KG	cereals and tubers	8007
+5/15/2016	Wheat - Retail	KG	cereals and tubers	7990
+6/15/2016	Wheat - Retail	KG	cereals and tubers	8019
+7/15/2016	Wheat - Retail	KG	cereals and tubers	8042
+8/15/2016	Wheat - Retail	KG	cereals and tubers	8064
+9/15/2016	Wheat - Retail	KG	cereals and tubers	8054
+10/15/2016	Wheat - Retail	KG	cereals and tubers	8048
+11/15/2016	Wheat - Retail	KG	cereals and tubers	8006
+12/15/2016	Wheat - Retail	KG	cereals and tubers	8014
+1/15/2017	Wheat - Retail	KG	cereals and tubers	8030
+2/15/2017	Wheat - Retail	KG	cereals and tubers	8020
+3/15/2017	Wheat - Retail	KG	cereals and tubers	7998
+4/15/2017	Wheat - Retail	KG	cereals and tubers	7922
+5/15/2017	Wheat - Retail	KG	cereals and tubers	7895
+6/15/2017	Wheat - Retail	KG	cereals and tubers	7929
+8/15/2017	Wheat - Retail	KG	cereals and tubers	8005
+9/15/2017	Wheat - Retail	KG	cereals and tubers	8159
+10/15/2017	Wheat - Retail	KG	cereals and tubers	8244
+11/15/2017	Wheat - Retail	KG	cereals and tubers	8258
+12/15/2017	Wheat - Retail	KG	cereals and tubers	8296
+1/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	32799
+2/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	31953
+3/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	30988
+4/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	30480
+5/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	30550
+6/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	32502
+7/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37244
+8/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37039
+9/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37732
+10/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35061
+11/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	32947
+12/15/2013	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	32202
+1/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33757
+2/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33230
+3/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33231
+4/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	32435
+5/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	34284
+6/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36050
+7/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36483
+8/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37173
+9/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37526
+10/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33905
+11/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33474
+12/15/2014	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	34043
+1/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36515
+2/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35682
+3/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35279
+4/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	33570
+5/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35279
+6/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36944
+7/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39231
+8/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	41616
+9/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37742
+10/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35693
+11/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36296
+12/15/2015	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	38550
+1/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	41372
+2/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39862
+3/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	36203
+4/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	35102
+5/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37619
+6/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39635
+7/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	41034
+8/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39606
+9/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	38830
+10/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	38015
+11/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37547
+12/15/2016	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	38538
+1/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39906
+2/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37480
+3/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37285
+4/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37777
+5/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39133
+6/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	40123
+8/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39868
+9/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	39031
+10/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	37856
+11/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	38132
+12/15/2017	"Meat (chicken, broiler) - Retail"	KG	"meat, fish and eggs"	40454
+1/15/2013	Chili (green) - Retail	KG	vegetables and fruits	25162
+2/15/2013	Chili (green) - Retail	KG	vegetables and fruits	28838
+3/15/2013	Chili (green) - Retail	KG	vegetables and fruits	34888
+4/15/2013	Chili (green) - Retail	KG	vegetables and fruits	30157
+5/15/2013	Chili (green) - Retail	KG	vegetables and fruits	25190
+6/15/2013	Chili (green) - Retail	KG	vegetables and fruits	29807
+7/15/2013	Chili (green) - Retail	KG	vegetables and fruits	46278
+8/15/2013	Chili (green) - Retail	KG	vegetables and fruits	44843
+9/15/2013	Chili (green) - Retail	KG	vegetables and fruits	34314
+10/15/2013	Chili (green) - Retail	KG	vegetables and fruits	34918
+11/15/2013	Chili (green) - Retail	KG	vegetables and fruits	26723
+12/15/2013	Chili (green) - Retail	KG	vegetables and fruits	29008
+1/15/2014	Chili (green) - Retail	KG	vegetables and fruits	35938
+2/15/2014	Chili (green) - Retail	KG	vegetables and fruits	42202
+3/15/2014	Chili (green) - Retail	KG	vegetables and fruits	49144
+4/15/2014	Chili (green) - Retail	KG	vegetables and fruits	44338
+5/15/2014	Chili (green) - Retail	KG	vegetables and fruits	26443
+6/15/2014	Chili (green) - Retail	KG	vegetables and fruits	23212
+7/15/2014	Chili (green) - Retail	KG	vegetables and fruits	23168
+8/15/2014	Chili (green) - Retail	KG	vegetables and fruits	24878
+9/15/2014	Chili (green) - Retail	KG	vegetables and fruits	24507
+10/15/2014	Chili (green) - Retail	KG	vegetables and fruits	27803
+11/15/2014	Chili (green) - Retail	KG	vegetables and fruits	46011
+12/15/2014	Chili (green) - Retail	KG	vegetables and fruits	61843
+1/15/2015	Chili (green) - Retail	KG	vegetables and fruits	52134
+2/15/2015	Chili (green) - Retail	KG	vegetables and fruits	34539
+3/15/2015	Chili (green) - Retail	KG	vegetables and fruits	30947
+4/15/2015	Chili (green) - Retail	KG	vegetables and fruits	28202
+5/15/2015	Chili (green) - Retail	KG	vegetables and fruits	29432
+6/15/2015	Chili (green) - Retail	KG	vegetables and fruits	30698
+7/15/2015	Chili (green) - Retail	KG	vegetables and fruits	39957
+8/15/2015	Chili (green) - Retail	KG	vegetables and fruits	49551
+9/15/2015	Chili (green) - Retail	KG	vegetables and fruits	43471
+10/15/2015	Chili (green) - Retail	KG	vegetables and fruits	29282
+11/15/2015	Chili (green) - Retail	KG	vegetables and fruits	28465
+12/15/2015	Chili (green) - Retail	KG	vegetables and fruits	35157
+1/15/2016	Chili (green) - Retail	KG	vegetables and fruits	35881
+2/15/2016	Chili (green) - Retail	KG	vegetables and fruits	31557
+3/15/2016	Chili (green) - Retail	KG	vegetables and fruits	41504
+4/15/2016	Chili (green) - Retail	KG	vegetables and fruits	34498
+5/15/2016	Chili (green) - Retail	KG	vegetables and fruits	30158
+6/15/2016	Chili (green) - Retail	KG	vegetables and fruits	30339
+7/15/2016	Chili (green) - Retail	KG	vegetables and fruits	34004
+8/15/2016	Chili (green) - Retail	KG	vegetables and fruits	38805
+9/15/2016	Chili (green) - Retail	KG	vegetables and fruits	35790
+10/15/2016	Chili (green) - Retail	KG	vegetables and fruits	35704
+11/15/2016	Chili (green) - Retail	KG	vegetables and fruits	46083
+12/15/2016	Chili (green) - Retail	KG	vegetables and fruits	57479
+1/15/2017	Chili (green) - Retail	KG	vegetables and fruits	78947
+2/15/2017	Chili (green) - Retail	KG	vegetables and fruits	89763
+3/15/2017	Chili (green) - Retail	KG	vegetables and fruits	79117
+4/15/2017	Chili (green) - Retail	KG	vegetables and fruits	60335
+5/15/2017	Chili (green) - Retail	KG	vegetables and fruits	52636
+6/15/2017	Chili (green) - Retail	KG	vegetables and fruits	44893
+8/15/2017	Chili (green) - Retail	KG	vegetables and fruits	37208
+9/15/2017	Chili (green) - Retail	KG	vegetables and fruits	33472
+10/15/2017	Chili (green) - Retail	KG	vegetables and fruits	31340
+11/15/2017	Chili (green) - Retail	KG	vegetables and fruits	30870
+12/15/2017	Chili (green) - Retail	KG	vegetables and fruits	36559
+1/15/2013	Chili (red) - Retail	KG	vegetables and fruits	23377
+2/15/2013	Chili (red) - Retail	KG	vegetables and fruits	25151
+3/15/2013	Chili (red) - Retail	KG	vegetables and fruits	25521
+4/15/2013	Chili (red) - Retail	KG	vegetables and fruits	25521
+5/15/2013	Chili (red) - Retail	KG	vegetables and fruits	29744
+6/15/2013	Chili (red) - Retail	KG	vegetables and fruits	34033
+7/15/2013	Chili (red) - Retail	KG	vegetables and fruits	35422
+8/15/2013	Chili (red) - Retail	KG	vegetables and fruits	36290
+9/15/2013	Chili (red) - Retail	KG	vegetables and fruits	29384
+10/15/2013	Chili (red) - Retail	KG	vegetables and fruits	39401
+11/15/2013	Chili (red) - Retail	KG	vegetables and fruits	35583
+12/15/2013	Chili (red) - Retail	KG	vegetables and fruits	35142
+1/15/2014	Chili (red) - Retail	KG	vegetables and fruits	37989
+2/15/2014	Chili (red) - Retail	KG	vegetables and fruits	33218
+3/15/2014	Chili (red) - Retail	KG	vegetables and fruits	28411
+4/15/2014	Chili (red) - Retail	KG	vegetables and fruits	22555
+5/15/2014	Chili (red) - Retail	KG	vegetables and fruits	19210
+6/15/2014	Chili (red) - Retail	KG	vegetables and fruits	18200
+7/15/2014	Chili (red) - Retail	KG	vegetables and fruits	18715
+8/15/2014	Chili (red) - Retail	KG	vegetables and fruits	18996
+9/15/2014	Chili (red) - Retail	KG	vegetables and fruits	23948
+10/15/2014	Chili (red) - Retail	KG	vegetables and fruits	33652
+11/15/2014	Chili (red) - Retail	KG	vegetables and fruits	48785
+12/15/2014	Chili (red) - Retail	KG	vegetables and fruits	61874
+1/15/2015	Chili (red) - Retail	KG	vegetables and fruits	46573
+2/15/2015	Chili (red) - Retail	KG	vegetables and fruits	28102
+3/15/2015	Chili (red) - Retail	KG	vegetables and fruits	23738
+4/15/2015	Chili (red) - Retail	KG	vegetables and fruits	22850
+5/15/2015	Chili (red) - Retail	KG	vegetables and fruits	27927
+6/15/2015	Chili (red) - Retail	KG	vegetables and fruits	30884
+7/15/2015	Chili (red) - Retail	KG	vegetables and fruits	35319
+8/15/2015	Chili (red) - Retail	KG	vegetables and fruits	36333
+9/15/2015	Chili (red) - Retail	KG	vegetables and fruits	32344
+10/15/2015	Chili (red) - Retail	KG	vegetables and fruits	23740
+11/15/2015	Chili (red) - Retail	KG	vegetables and fruits	23028
+12/15/2015	Chili (red) - Retail	KG	vegetables and fruits	32831
+1/15/2016	Chili (red) - Retail	KG	vegetables and fruits	35412
+2/15/2016	Chili (red) - Retail	KG	vegetables and fruits	37845
+3/15/2016	Chili (red) - Retail	KG	vegetables and fruits	45554
+4/15/2016	Chili (red) - Retail	KG	vegetables and fruits	33979
+5/15/2016	Chili (red) - Retail	KG	vegetables and fruits	30445
+6/15/2016	Chili (red) - Retail	KG	vegetables and fruits	30031
+7/15/2016	Chili (red) - Retail	KG	vegetables and fruits	31160
+8/15/2016	Chili (red) - Retail	KG	vegetables and fruits	32955
+9/15/2016	Chili (red) - Retail	KG	vegetables and fruits	39151
+10/15/2016	Chili (red) - Retail	KG	vegetables and fruits	47095
+11/15/2016	Chili (red) - Retail	KG	vegetables and fruits	57079
+12/15/2016	Chili (red) - Retail	KG	vegetables and fruits	51291
+1/15/2017	Chili (red) - Retail	KG	vegetables and fruits	47172
+2/15/2017	Chili (red) - Retail	KG	vegetables and fruits	44464
+3/15/2017	Chili (red) - Retail	KG	vegetables and fruits	39551
+4/15/2017	Chili (red) - Retail	KG	vegetables and fruits	34429
+5/15/2017	Chili (red) - Retail	KG	vegetables and fruits	34973
+6/15/2017	Chili (red) - Retail	KG	vegetables and fruits	31731
+8/15/2017	Chili (red) - Retail	KG	vegetables and fruits	31008
+9/15/2017	Chili (red) - Retail	KG	vegetables and fruits	31433
+10/15/2017	Chili (red) - Retail	KG	vegetables and fruits	33190
+11/15/2017	Chili (red) - Retail	KG	vegetables and fruits	36144
+12/15/2017	Chili (red) - Retail	KG	vegetables and fruits	40199
+1/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	17558
+2/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	18018
+3/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	16310
+5/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	16460
+6/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	17583
+7/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	18868
+8/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	18640
+9/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	17652
+10/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	16799
+11/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	16144
+12/15/2013	Eggs - Retail	KG	"meat, fish and eggs"	16785
+1/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18314
+2/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18330
+3/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	16129
+4/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	16187
+5/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	17142
+6/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18172
+7/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18565
+8/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18285
+9/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18199
+10/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	17671
+11/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	17636
+12/15/2014	Eggs - Retail	KG	"meat, fish and eggs"	18599
+1/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	20496
+2/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	20016
+3/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	18225
+4/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	17964
+5/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	19065
+6/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	20350
+7/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	19512
+8/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	20345
+9/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	20194
+10/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	19079
+11/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	19379
+12/15/2015	Eggs - Retail	KG	"meat, fish and eggs"	21156
+1/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	22760
+2/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	22007
+3/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	20009
+4/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	19361
+5/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	19965
+6/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	21135
+7/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	20786
+8/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	20815
+9/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	19897
+10/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	19374
+11/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	18909
+12/15/2016	Eggs - Retail	KG	"meat, fish and eggs"	20654
+1/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20590
+2/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	19703
+3/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	19181
+4/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	19008
+5/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20515
+6/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20439
+8/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	21375
+9/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20811
+10/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20395
+11/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	20772
+12/15/2017	Eggs - Retail	KG	"meat, fish and eggs"	23138
+1/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8145
+2/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8141
+3/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8128
+4/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8179
+5/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8196
+6/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8234
+7/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8308
+8/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8299
+9/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8301
+10/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8411
+11/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8499
+12/15/2013	Milk (condensed) - Retail	385 G	milk and dairy	8660
+1/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	8843
+2/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9105
+3/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9306
+4/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9385
+5/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9457
+6/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9515
+7/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9578
+8/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9584
+9/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9620
+10/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9627
+11/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9639
+12/15/2014	Milk (condensed) - Retail	385 G	milk and dairy	9670
+1/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9689
+2/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9694
+3/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9728
+4/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9752
+5/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9770
+6/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9809
+7/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9831
+8/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9896
+9/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9865
+10/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9870
+11/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9893
+12/15/2015	Milk (condensed) - Retail	385 G	milk and dairy	9882
+1/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9889
+2/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9895
+3/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9888
+4/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9871
+5/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9889
+6/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9898
+7/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9925
+8/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9946
+9/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9962
+10/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9969
+11/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9956
+12/15/2016	Milk (condensed) - Retail	385 G	milk and dairy	9966
+1/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9971
+2/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9941
+3/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9968
+4/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9965
+5/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9939
+6/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	9952
+8/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	10047
+9/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	10084
+10/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	10094
+11/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	10081
+12/15/2017	Milk (condensed) - Retail	385 G	milk and dairy	10077
+1/15/2013	Oil (vegetable) - Retail	L	oil and fats	12664
+2/15/2013	Oil (vegetable) - Retail	L	oil and fats	12607
+3/15/2013	Oil (vegetable) - Retail	L	oil and fats	12554
+4/15/2013	Oil (vegetable) - Retail	L	oil and fats	12531
+5/15/2013	Oil (vegetable) - Retail	L	oil and fats	12441
+6/15/2013	Oil (vegetable) - Retail	L	oil and fats	12461
+7/15/2013	Oil (vegetable) - Retail	L	oil and fats	12502
+8/15/2013	Oil (vegetable) - Retail	L	oil and fats	12464
+9/15/2013	Oil (vegetable) - Retail	L	oil and fats	12651
+10/15/2013	Oil (vegetable) - Retail	L	oil and fats	12684
+11/15/2013	Oil (vegetable) - Retail	L	oil and fats	12807
+12/15/2013	Oil (vegetable) - Retail	L	oil and fats	12958
+1/15/2014	Oil (vegetable) - Retail	L	oil and fats	13077
+2/15/2014	Oil (vegetable) - Retail	L	oil and fats	13188
+3/15/2014	Oil (vegetable) - Retail	L	oil and fats	13468
+4/15/2014	Oil (vegetable) - Retail	L	oil and fats	13735
+5/15/2014	Oil (vegetable) - Retail	L	oil and fats	13817
+6/15/2014	Oil (vegetable) - Retail	L	oil and fats	13853
+7/15/2014	Oil (vegetable) - Retail	L	oil and fats	13925
+8/15/2014	Oil (vegetable) - Retail	L	oil and fats	13947
+9/15/2014	Oil (vegetable) - Retail	L	oil and fats	13915
+10/15/2014	Oil (vegetable) - Retail	L	oil and fats	13879
+11/15/2014	Oil (vegetable) - Retail	L	oil and fats	13911
+12/15/2014	Oil (vegetable) - Retail	L	oil and fats	13950
+1/15/2015	Oil (vegetable) - Retail	L	oil and fats	13919
+2/15/2015	Oil (vegetable) - Retail	L	oil and fats	13895
+3/15/2015	Oil (vegetable) - Retail	L	oil and fats	13910
+4/15/2015	Oil (vegetable) - Retail	L	oil and fats	13820
+5/15/2015	Oil (vegetable) - Retail	L	oil and fats	13743
+6/15/2015	Oil (vegetable) - Retail	L	oil and fats	13824
+7/15/2015	Oil (vegetable) - Retail	L	oil and fats	13838
+8/15/2015	Oil (vegetable) - Retail	L	oil and fats	13790
+9/15/2015	Oil (vegetable) - Retail	L	oil and fats	13521
+10/15/2015	Oil (vegetable) - Retail	L	oil and fats	13436
+11/15/2015	Oil (vegetable) - Retail	L	oil and fats	13302
+12/15/2015	Oil (vegetable) - Retail	L	oil and fats	13310
+1/15/2016	Oil (vegetable) - Retail	L	oil and fats	13277
+2/15/2016	Oil (vegetable) - Retail	L	oil and fats	13313
+3/15/2016	Oil (vegetable) - Retail	L	oil and fats	13466
+4/15/2016	Oil (vegetable) - Retail	L	oil and fats	13649
+5/15/2016	Oil (vegetable) - Retail	L	oil and fats	13885
+6/15/2016	Oil (vegetable) - Retail	L	oil and fats	13941
+7/15/2016	Oil (vegetable) - Retail	L	oil and fats	13919
+8/15/2016	Oil (vegetable) - Retail	L	oil and fats	14041
+9/15/2016	Oil (vegetable) - Retail	L	oil and fats	14222
+10/15/2016	Oil (vegetable) - Retail	L	oil and fats	14198
+11/15/2016	Oil (vegetable) - Retail	L	oil and fats	14164
+12/15/2016	Oil (vegetable) - Retail	L	oil and fats	14232
+1/15/2017	Oil (vegetable) - Retail	L	oil and fats	14349
+2/15/2017	Oil (vegetable) - Retail	L	oil and fats	14567
+3/15/2017	Oil (vegetable) - Retail	L	oil and fats	14730
+4/15/2017	Oil (vegetable) - Retail	L	oil and fats	14546
+5/15/2017	Oil (vegetable) - Retail	L	oil and fats	14610
+6/15/2017	Oil (vegetable) - Retail	L	oil and fats	14629
+8/15/2017	Oil (vegetable) - Retail	L	oil and fats	14575
+9/15/2017	Oil (vegetable) - Retail	L	oil and fats	14588
+10/15/2017	Oil (vegetable) - Retail	L	oil and fats	14595
+11/15/2017	Oil (vegetable) - Retail	L	oil and fats	14542
+12/15/2017	Oil (vegetable) - Retail	L	oil and fats	14522
+1/15/2013	Sugar - Retail	KG	miscellaneous food	12557
+2/15/2013	Sugar - Retail	KG	miscellaneous food	12554
+3/15/2013	Sugar - Retail	KG	miscellaneous food	12579
+4/15/2013	Sugar - Retail	KG	miscellaneous food	12609
+5/15/2013	Sugar - Retail	KG	miscellaneous food	12601
+6/15/2013	Sugar - Retail	KG	miscellaneous food	12600
+7/15/2013	Sugar - Retail	KG	miscellaneous food	12601
+8/15/2013	Sugar - Retail	KG	miscellaneous food	12597
+9/15/2013	Sugar - Retail	KG	miscellaneous food	12562
+10/15/2013	Sugar - Retail	KG	miscellaneous food	12523
+11/15/2013	Sugar - Retail	KG	miscellaneous food	12442
+12/15/2013	Sugar - Retail	KG	miscellaneous food	12267
+1/15/2014	Sugar - Retail	KG	miscellaneous food	12188
+2/15/2014	Sugar - Retail	KG	miscellaneous food	12131
+3/15/2014	Sugar - Retail	KG	miscellaneous food	11922
+4/15/2014	Sugar - Retail	KG	miscellaneous food	11806
+5/15/2014	Sugar - Retail	KG	miscellaneous food	11738
+6/15/2014	Sugar - Retail	KG	miscellaneous food	11738
+7/15/2014	Sugar - Retail	KG	miscellaneous food	11731
+8/15/2014	Sugar - Retail	KG	miscellaneous food	11667
+9/15/2014	Sugar - Retail	KG	miscellaneous food	11608
+10/15/2014	Sugar - Retail	KG	miscellaneous food	11595
+11/15/2014	Sugar - Retail	KG	miscellaneous food	11630
+12/15/2014	Sugar - Retail	KG	miscellaneous food	11637
+1/15/2015	Sugar - Retail	KG	miscellaneous food	11632
+2/15/2015	Sugar - Retail	KG	miscellaneous food	11722
+3/15/2015	Sugar - Retail	KG	miscellaneous food	11831
+4/15/2015	Sugar - Retail	KG	miscellaneous food	12188
+5/15/2015	Sugar - Retail	KG	miscellaneous food	12509
+6/15/2015	Sugar - Retail	KG	miscellaneous food	12941
+7/15/2015	Sugar - Retail	KG	miscellaneous food	13065
+8/15/2015	Sugar - Retail	KG	miscellaneous food	13013
+9/15/2015	Sugar - Retail	KG	miscellaneous food	12906
+10/15/2015	Sugar - Retail	KG	miscellaneous food	12918
+11/15/2015	Sugar - Retail	KG	miscellaneous food	13308
+12/15/2015	Sugar - Retail	KG	miscellaneous food	13116
+1/15/2016	Sugar - Retail	KG	miscellaneous food	13208
+2/15/2016	Sugar - Retail	KG	miscellaneous food	13310
+3/15/2016	Sugar - Retail	KG	miscellaneous food	13415
+4/15/2016	Sugar - Retail	KG	miscellaneous food	13463
+5/15/2016	Sugar - Retail	KG	miscellaneous food	14459
+6/15/2016	Sugar - Retail	KG	miscellaneous food	15327
+7/15/2016	Sugar - Retail	KG	miscellaneous food	15745
+8/15/2016	Sugar - Retail	KG	miscellaneous food	15490
+9/15/2016	Sugar - Retail	KG	miscellaneous food	15211
+10/15/2016	Sugar - Retail	KG	miscellaneous food	15039
+11/15/2016	Sugar - Retail	KG	miscellaneous food	14822
+12/15/2016	Sugar - Retail	KG	miscellaneous food	14709
+1/15/2017	Sugar - Retail	KG	miscellaneous food	14628
+2/15/2017	Sugar - Retail	KG	miscellaneous food	14546
+3/15/2017	Sugar - Retail	KG	miscellaneous food	14441
+4/15/2017	Sugar - Retail	KG	miscellaneous food	13791
+5/15/2017	Sugar - Retail	KG	miscellaneous food	13402
+6/15/2017	Sugar - Retail	KG	miscellaneous food	13306
+8/15/2017	Sugar - Retail	KG	miscellaneous food	13160
+9/15/2017	Sugar - Retail	KG	miscellaneous food	13034
+10/15/2017	Sugar - Retail	KG	miscellaneous food	12910
+11/15/2017	Sugar - Retail	KG	miscellaneous food	12814
+12/15/2017	Sugar - Retail	KG	miscellaneous food	12729
+1/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	82437
+2/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	83707
+3/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	84301
+4/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	84554
+5/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	85002
+6/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	85606
+7/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	88928
+8/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	90982
+9/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	89217
+10/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	89297
+11/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	89368
+12/15/2013	Meat (beef) - Retail	KG	"meat, fish and eggs"	90154
+1/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	92029
+2/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	92443
+3/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	92230
+4/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	92313
+5/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	91861
+6/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	91686
+7/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	94767
+8/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	94445
+9/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	93501
+10/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	93454
+11/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	93473
+12/15/2014	Meat (beef) - Retail	KG	"meat, fish and eggs"	94324
+1/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	94758
+2/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	94777
+3/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	95033
+4/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	95299
+5/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	95137
+6/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	96279
+7/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	100862
+8/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	102143
+9/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	101959
+10/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	101826
+11/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	101409
+12/15/2015	Meat (beef) - Retail	KG	"meat, fish and eggs"	102038
+1/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	104120
+2/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	105224
+3/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	105676
+4/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	105444
+5/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	105623
+6/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	106986
+7/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	108256
+8/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	107393
+9/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	107576
+10/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	107425
+11/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	107361
+12/15/2016	Meat (beef) - Retail	KG	"meat, fish and eggs"	107694
+1/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	107199
+2/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	106877
+3/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	107251
+4/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	106329
+5/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	107647
+6/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	108734
+8/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	108072
+9/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	107715
+10/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	106713
+11/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	106201
+12/15/2017	Meat (beef) - Retail	KG	"meat, fish and eggs"	106732
+1/15/2013	Fuel (kerosene) - Retail	L	non-food	6111
+2/15/2013	Fuel (kerosene) - Retail	L	non-food	6128
+3/15/2013	Fuel (kerosene) - Retail	L	non-food	6163
+4/15/2013	Fuel (kerosene) - Retail	L	non-food	6165
+5/15/2013	Fuel (kerosene) - Retail	L	non-food	6164
+6/15/2013	Fuel (kerosene) - Retail	L	non-food	6181
+7/15/2013	Fuel (kerosene) - Retail	L	non-food	6209
+8/15/2013	Fuel (kerosene) - Retail	L	non-food	6233
+9/15/2013	Fuel (kerosene) - Retail	L	non-food	6244
+10/15/2013	Fuel (kerosene) - Retail	L	non-food	6243
+11/15/2013	Fuel (kerosene) - Retail	L	non-food	6296
+12/15/2013	Fuel (kerosene) - Retail	L	non-food	6307
